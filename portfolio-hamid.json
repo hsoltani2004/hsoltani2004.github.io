@@ -1,0 +1,191 @@
+{
+  "name": "Hamidreza Soltani",
+  "label": "AI & ML Engineer | NLP & LLMs | Computer Vision | Data Science",
+  "image_path": "portfolio_media/Hamid-portfolio.jpg",
+  "contact": {
+    "email": "soltani2004@hotmail.com",
+    "phone": "",
+    "location": "London, UK"
+  },
+  "summary": "Innovative and results-driven AI Engineer, Data Scientist and Software Engineer with extensive expertise in deep learning, AI model development, and cloud-based deployments. Passionate about developing scalable AI solutions, pushing the boundaries of AI research, and deploying models in production at scale.",
+  "url": "",
+  "social_links": [
+    {
+      "label": "",
+      "url": "",
+      "svg_path": "img/globe.svg"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/hamidreza-soltani2/",
+      "svg_path": "img/linkedin.svg"
+    },
+    {
+      "label": "Github",
+      "url": "https://github.com/hsoltani2004",
+      "svg_path": "img/github.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Buhler Group, UK",
+      "position": "AI Engineer – Data Scientist",
+      "url": "https://www.buhlergroup.com/global/en/homepage.html",
+      "start_date": "2024",
+      "end_date": " ",
+      "summary": "",
+      "highlights": [
+        "Integrated Retrieval-Augmented Generation (RAG) frameworks to build intelligent customer support systems that dynamically retrieve relevant technical documentation, leading to improved response accuracy and reduced support latency",
+        "Applied Vision Transformers (ViTs) for defect detection in optical sorting, improving classification accuracy and robustness in real-world conditions",
+        "Optimized (30%) the KUSTO queries for retrieving data from IOT devices"
+      ]
+    },
+    {
+      "company": "Capgemini, UK",
+      "position": "Data Scientist / ML Engineer",
+      "url": "https://www.capgemini.com/gb-en/",
+      "start_date": "2022",
+      "end_date": "2024",
+      "summary": "",
+      "highlights": [
+        "Applied Large Language Models (Fine-tuned transformer-based models (BERT) for proof-of-concept use cases in customer support automation and internal knowledge search, focusing on improving response quality and reducing manual workload.",
+        "Cloud based (Azure) configuration and support for data processing and back-end development for Nouryon company’s Apps (Sales and Distributor)",
+        "Pipeline Pilot Migration (with dependent protocols) from Unilever to Lipton cloud environment for data processing and data analysing",
+        "Contributed to internal initiatives around benchmarking Deep Learning models (CNN and RNN) and supporting capability building within the data science team"
+      ]
+    },
+    {
+      "company": "University of Nottingham, UK",
+      "position": "Research Software Engineer (Digital Scientist)",
+      "url": "https://www.nottingham.ac.uk/",
+      "start_date": "2018",
+      "end_date": "2022",
+      "summary": "",
+      "highlights": [
+        "Implemented deep learning models using convolutional neural networks (CNNs) to accurately detect and localize stomata in high-resolution imagery, supporting automated analysis in agricultural applications",
+        "Data analysis for the UK-biobank for investigating possible links between loss of hearing function and early onset of dementia",
+        "Elephant welfare assessment tool to report statistics for the elephants (It was used by the zoo uploading data)",
+        "A fine granularity access control for UK-biobank data sources (Bulk and CSV raw data)",
+        "Antidepressant Polypharmacy (CPRD dataset) analysis"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "",
+      "summary": "",
+      "url": "",
+      "highlights": [
+        "Graham, S. G., Soltani, H., & Isiaq, O. (2023). 'Natural Language Processing for Legal Document Review.'' Journal of Artificial Intelligence and Law",
+        "Cowling, S. B., Treeintong, P., Ferguson, J., Soltani, H., et al. (2022). 'Dynamic Photosynthetic Traits in African Rice.'' Journal of Experimental Botany",
+        "Soltani, H., Ly, D., & Ahmed, W. (2017). 'Accelerating Cell Dynamics Simulation Using GPU.'' Materials Today: Proceedings"
+      ]
+    }
+  ],
+  "volunteer_experience": [
+    {
+      "organization": "",
+      "position": "",
+      "url": "",
+      "start_date": "",
+      "end_date": "",
+      "summary": "- Machine Learning and Deep Learning, University of Nottingham, 2019 – 2020",
+      "highlights": []
+    },
+    {
+      "organization": "",
+      "position": "",
+      "url": "",
+      "start_date": "",
+      "end_date": "2",
+      "summary": "- Python Crash Course, University of Nottingham, 2019 – 2020",
+      "highlights": []
+    },
+    {
+      "organization": "",
+      "position": "",
+      "url": "",
+      "start_date": "",
+      "end_date": "2",
+      "summary": "- Introduction to Version Control, University of Nottingham, 2018, 2019",
+      "highlights": []
+    },
+    {
+      "organization": "",
+      "position": "",
+      "url": "",
+      "start_date": "",
+      "end_date": "2",
+      "summary": "- Private Tutor in Computer Science, Software Engineering and Computing, UK, 2013 – 2018",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Central Lancashire",
+      "location": "Preston, UK",
+      "url": "https://www.lancashire.ac.uk/",
+      "degrees": ["Ph.D. in Computational Modelling and Parallel Processing"],
+      "graduation_date": "2016"
+    },
+    {
+      "institution": "King’s College London",
+      "location": "London, UK",
+      "url": "https://www.kcl.ac.uk/",
+      "degrees": ["MSc in Advanced Software Engineering"],
+      "graduation_date": "2011"
+    },
+    {
+      "institution": "University of Greenwich",
+      "location": "London, UK",
+      "url": "https://www.kcl.ac.uk/",
+      "degrees": ["BSc (Hons) in Computer Science"],
+      "graduation_date": "2009"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "Pytorch, Pandas, Numpy, Scipy, Matplotlib, Seaborn, Scikit-learn",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "Deep Learning, Computer Vision, NLP, LLMs",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "Data Visualization",
+      "proficiency": 80,
+      "proficiency_label": "Comfortable"
+    },
+    {
+      "name": "System Design",
+      "proficiency": 80,
+      "proficiency_label": "Comfortable"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Chess - Badminton - Tennis",
+      "summary": "",
+      "images": [
+        {
+          "img_path": "portfolio_media/chess.jpg",
+          "caption": ""
+        },
+        {
+          "img_path": "portfolio_media/badminton.jpg",
+          "caption": ""
+        }
+      ]
+    }
+  ],
+  "languages": [],
+  "references": []
+}
