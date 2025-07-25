@@ -28,11 +28,23 @@
   ],
   "work_experience": [
     {
+      "company": "Southampton Solent University, UK",
+      "position": "Guest Lecturer & Dissertation Supervisor (Part-Time)",
+      "url": "https://www.solent.ac.uk/",
+      "start_date": "2022",
+      "end_date": " ",
+      "summary": "",
+      "highlights": [
+        "Mentored postgraduate students on advanced AI and machine learning topics, overseeing groundbreaking research projects",
+        "Delivered engaging workshops on state-of-the-art techniques, including transformer models and NLP applications"
+      ]
+    },
+    {
       "company": "Buhler Group, UK",
       "position": "AI Engineer – Data Scientist",
       "url": "https://www.buhlergroup.com/global/en/homepage.html",
       "start_date": "2024",
-      "end_date": " ",
+      "end_date": "2025",
       "summary": "",
       "highlights": [
         "Integrated Retrieval-Augmented Generation (RAG) frameworks to build intelligent customer support systems that dynamically retrieve relevant technical documentation, leading to improved response accuracy and reduced support latency",
@@ -52,18 +64,6 @@
         "Cloud based (Azure) configuration and support for data processing and back-end development for Nouryon company’s Apps (Sales and Distributor)",
         "Pipeline Pilot Migration (with dependent protocols) from Unilever to Lipton cloud environment for data processing and data analysing",
         "Contributed to internal initiatives around benchmarking Deep Learning models (CNN and RNN) and supporting capability building within the data science team"
-      ]
-    },
-    {
-      "company": "Southampton Solent University, UK",
-      "position": "Guest Lecturer & Dissertation Supervisor (Part-Time)",
-      "url": "https://www.solent.ac.uk/",
-      "start_date": "2022",
-      "end_date": " ",
-      "summary": "",
-      "highlights": [
-        "Mentored postgraduate students on advanced AI and machine learning topics, overseeing groundbreaking research projects",
-        "Delivered engaging workshops on state-of-the-art techniques, including transformer models and NLP applications"
       ]
     },
     {
