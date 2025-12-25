@@ -28,6 +28,20 @@
   ],
   "work_experience": [
     {
+      "company": "Swift, UK",
+      "position": "AI Engineer / Data Scientist",
+      "url": "https://www.swift.com/",
+      "start_date": "2025",
+      "end_date": " ",
+      "summary": "",
+      "highlights": [
+        "Developing AI/ML capabilities, hands-on prototyping, and collaborating with software developers to implement solutions",
+        "Developing and refining advanced data-driven solutions through prototyping and hands-on tuning",
+        "Applying technical, analytical, and business acumen to ensure effective solution deployments",
+        "Driving data analysis, manipulation, and modeling using Python and other frameworks and tools"
+      ]
+    },
+    {
       "company": "Southampton Solent University, UK",
       "position": "Guest Lecturer & Dissertation Supervisor (Part-Time)",
       "url": "https://www.solent.ac.uk/",
